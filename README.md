@@ -1,9 +1,6 @@
 # Staycation Booking App ✈️
 ### Your Infinite Private Staycation
 
-![Project Status](https://img.shields.io/badge/Status-Deployed-success)
-![License](https://img.shields.io/badge/License-ISC-blue)
-
 ## Project Overview
 
 **Wanderlust** is a feature-rich, full-stack web application designed to help travelers discover and book unique staycation experiences. It serves as a bridge between hosts listing their properties and travelers seeking their next getaway.
